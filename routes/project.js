@@ -1,6 +1,6 @@
 import { Router } from "express";
-import Project from "../modles/Project.js";
-import Task from "../modles/Tasks.js"
+import Project from "../models/Project.js";
+import Task from "../models/Tasks.js"
 
 const router = new Router();
 
